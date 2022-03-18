@@ -1,4 +1,6 @@
 her name is fengyang
 haha!
 我是好人！
- bug已修复
+bug已修复
+我也是坏人！
+
